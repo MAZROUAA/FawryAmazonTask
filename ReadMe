@@ -1,0 +1,5 @@
+You need to have intellij
+download the project
+open it with intellij 
+build maven dependencies from pom.xml
+run the test
